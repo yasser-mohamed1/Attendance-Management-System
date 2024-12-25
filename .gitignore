@@ -1,0 +1,66 @@
+# Windows generated files
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+[Dd]eployments/
+[Dd]ebug-AnyCPU/
+[Dd]ebug-x86/
+[Dd]ebug-x64/
+[Dd]ebug-windows/
+[Dd]ebug-linux/
+[Dd]ebug-osx/
+[Dd]Release/
+[Dd]eploy/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer directory
+installer/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+.idea/
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific JetBrains Rider project files
+.idea/
+
+# MacOS specific
+.DS_Store
+
+# Linux specific
+*.swp
+
+# Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Visual Studio specific files
+.vs/
